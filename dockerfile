@@ -2,7 +2,7 @@
 FROM nginx:alpine
 
 # Meta-informações
-LABEL maintainer="seu-email@example.com"
+LABEL maintainer="bruno.brito@avera.com.br"
 LABEL version="1.0"
 
 # Copie os arquivos estáticos para a pasta do servidor web no container
